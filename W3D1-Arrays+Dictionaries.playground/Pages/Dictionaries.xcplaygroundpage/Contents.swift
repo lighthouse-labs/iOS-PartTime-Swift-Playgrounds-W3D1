@@ -34,4 +34,15 @@ favourites["beer"] = "Blue Buck" // notice how "beer" didn't have to exist
 
 
 
+
+
+
+//: ### Bonus Challenge
+//:
+//: Create your own empty dictionary for student scores. The key for the student will be a student name, the value will be the score they got in the latest test. For this example add Dan's score to be 100, Cory's score to be 90, and Jeremy's score to be 80
+
+
+
+
+
 //: [Next](@next)

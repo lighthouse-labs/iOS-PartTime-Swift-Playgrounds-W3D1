@@ -44,3 +44,10 @@ favourites["fruit"] = "Mango"
 
 favourites
 
+
+//: ## Bonus Challenge
+
+var studentScores = [String:Int]()
+studentScores["Dan"] = 100
+studentScores["Cory"] = 90
+studentScores["Jeremy"] = 80
