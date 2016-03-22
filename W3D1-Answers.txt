@@ -1,0 +1,46 @@
+//: # W3D1 - Arrays
+//: 
+//: ## Challenge 1
+
+var secondElement = fruits[1]
+
+//: ## Challenge 2
+
+fruits.insert("Avocado", atIndex: 0)
+
+//: ## Challenge 3
+
+
+var numbers = [Int]()
+numbers.append(10)
+numbers.append(20)
+numbers.append(60)
+numbers.append(30)
+numbers.append(40)
+
+
+//: ## Bonus Challenge
+
+func printNum(array:[Int]) {
+    for number in numbers{
+        print(number)
+    }
+}
+
+printNum(numbers)
+
+
+//: # W3D1 - Dictionaries
+//:
+//: ## Challenge 1
+
+favourites["color"] = "Red"
+
+favourites // put the variable on an empty line to inspect the dictionary and see it’s contents!
+
+//: ## Challenge 2
+
+favourites["fruit"] = "Mango"
+
+favourites
+
