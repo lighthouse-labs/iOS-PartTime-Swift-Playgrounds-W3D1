@@ -79,4 +79,4 @@ for fruit in fruits {
 
 
 // Test it by uncommenting the below line of code:
-//printNum(numbers)
+// print(numbers: numbers)
