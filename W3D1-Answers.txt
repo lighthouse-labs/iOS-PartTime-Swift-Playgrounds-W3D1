@@ -6,7 +6,7 @@ var secondElement = fruits[1]
 
 //: ## Challenge 2
 
-fruits.insert("Avocado", atIndex: 0)
+fruits.insert("Avocado", at: 0)
 
 //: ## Challenge 3
 
@@ -21,7 +21,7 @@ numbers.append(40)
 
 //: ## Bonus Challenge
 
-func printNum(array:[Int]) {
+func printNum(numbers:[Int]) {
     for number in numbers{
         print(number)
     }
